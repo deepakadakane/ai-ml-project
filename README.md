@@ -1,2 +1,2 @@
-# aicte internship Garbage classification
-drive link for dataset :
+ 
+# drive link for garbage classification dataset :
